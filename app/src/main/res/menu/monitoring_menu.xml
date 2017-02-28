@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@id/come_back_auth"
+        android:title="Go to Authentication"/>
+
+
+    <item android:id="@+id/show_data"
+        android:title="Show Data Monitoring"/>
+
+    <item android:id="@+id/show_alarms"
+        android:title="Show Alarms Monitoring"/>
+
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PLC Monitoring</string>
+    <string name="monitoring_name">Monitoring</string>
+    <string name="delete_profile_name">Select Profile to Delete</string>
+</resources>
