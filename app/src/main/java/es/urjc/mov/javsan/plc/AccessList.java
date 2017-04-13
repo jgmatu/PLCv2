@@ -16,9 +16,9 @@ public class AccessList implements AdapterView.OnItemSelectedListener {
     private boolean isFirst;
 
     public static final String[] accessUris = { "Null",
-        "http://212.3.172.35/Ast/ViewIoListAst.shtm",
-        "http://Irlanda/Ast/ViewIoListAst.shtm",
-        "http://Valladolid/Ast/ViewIoListAst.shtm"
+        "http://***",
+        "http://***",
+        "http://***"
     };
 
     AccessList() {
